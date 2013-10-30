@@ -9,7 +9,7 @@ A fastdom helper for fruitmachine.
 ## Contributors
 
 - **Wilson Page** - [@wilsonpage](http://github.com/wilsonpage)
-- **Matt Andrews** - [@matthew-andrews](http://github.com/matthew-andrews)
+- **George Crawford** - [@georgecrawford](http://github.com/georgecrawford)
 
 ## License
 Copyright (c) 2013 The Financial Times Limited
