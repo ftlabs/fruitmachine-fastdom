@@ -1,6 +1,6 @@
 # fruitmachine-fastdom
 
-A fastdom fruitmachine helper.
+A fastdom helper for fruitmachine.
 
 ## Author
 
