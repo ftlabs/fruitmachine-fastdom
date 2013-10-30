@@ -1,0 +1,27 @@
+{
+  "name": "fruitmachine-fastdom",
+  "version": "1.0.0",
+  "description": "A fastdom helper for fruitmachine",
+  "main": "lib/helper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ftlabs/fruitmachine-fastdom.git"
+  },
+  "keywords": [
+    "fastdom",
+    "performance",
+    "layout",
+    "fruitmachine"
+  ],
+  "author": "Wilson Page <wilsonpage@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ftlabs/fruitmachine-fastdom/issues"
+  },
+  "dependencies": {
+    "fastdom": "~0.8.4"
+  }
+}
