@@ -1,6 +1,6 @@
 {
   "name": "fruitmachine-fastdom",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A fastdom helper for fruitmachine",
   "main": "lib/helper.js",
   "scripts": {
