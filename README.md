@@ -12,6 +12,7 @@ A fastdom helper for fruitmachine.
 - **Rowan Beentje** - [@rowanbeentje](http://github.com/rowanbeentje)
 - **George Crawford** - [@georgecrawford](http://github.com/georgecrawford)
 - **Matt Andrews** - [@matthew-andrews](http://github.com/matthew-andrews)
+- **Ada Rose Edwards** - [@adaroseedwards](https://github.com/adaroseedwards)
 
 ## Credits and collaboration
 
