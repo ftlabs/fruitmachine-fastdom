@@ -4,7 +4,7 @@
   "description": "A fastdom helper for fruitmachine",
   "main": "lib/helper.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/testling/bin/cmd.js"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,26 @@
     "url": "https://github.com/ftlabs/fruitmachine-fastdom/issues"
   },
   "dependencies": {
-    "fastdom": "~0.8.4"
+    "instantiable-fastdom": "git://github.com/orangemug/instantiable-fastdom.git#v0.1.0",
+    "lodash.bind": "~2.4.1"
+  },
+  "devDependencies": {
+    "fruitmachine": "~0.8.1",
+    "mocha": "~1.18.2",
+    "sinon": "~1.9",
+    "testling": "~1.6.1"
+  },
+  "testling": {
+    "harness": "mocha-tdd",
+    "browsers": [
+      "ie/9..latest",
+      "firefox/24..latest",
+      "chrome/28..latest",
+      "opera/12.0", "opera/15..latest",
+      "iphone/6..latest",
+      "safari/5.1..latest"
+    ],
+    "harness" : "mocha",
+    "files": "./test/index.js"
   }
 }
